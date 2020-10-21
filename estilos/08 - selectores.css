@@ -1,0 +1,37 @@
+h2[title="main cabecera otro"]
+{
+    padding:10px;
+    text-align: center;
+    background-color:salmon;
+    color: white;
+}
+#azul{
+    color:blue;
+}
+.prueba-grande{
+    font-size:larger;
+    text-align: center;
+    display:block;
+}
+.rojo-naranja
+{
+    color:#FF4B24;
+    display:inline;
+}
+.prueba{
+    display:inline;
+}
+.flex{
+    display:flex;
+}
+article{
+    background-color:silver;
+    margin:5px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+#art2{
+    display:inline-block;
+}
